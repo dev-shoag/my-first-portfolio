@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    font-family: 'Noto Sans', sans-serif;  
+}
+section{
+    height: 600px;
+    overflow: hidden;
+    margin-bottom: 50px;
+}
+.topBanner{
+    background-image: url('complete-web-development-bangla-resources/developer-portfolio/top-banner.png');
+    background-repeat: no-repeat;
+}
+.leftArea{
+    width: 40%;
+    padding: 2%;
+    float: left;
+    margin-left: 5%;
+    
+}
+.rightArea{
+    width: 40%;
+    float: right;
+    padding: 2%;
+    margin-right: 5%;
+}
+.firstImage{
+   width: 100%;
+}
+.secondImage{
+    width: 100%;
+}
+h1{
+    font-size: 40px;
+}
+.title{
+    color: orange;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+.about{
+    color: black;
+    margin-bottom: 20px;
+}
+.para{
+    color: rgb(34, 33, 33);
+}
+.btn{
+    padding: 10px 20px;
+    background: black;
+    border: 2px solid red;
+    margin-top: 10px;
+    outline: none;
+    border-radius: 5px;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+.dream{
+    color: orange;
+    margin-bottom: 40px;
+}
+.dreams{
+    margin-bottom: 20px;
+}
+.bg-img{
+    background-image: url('complete-web-development-bangla-resources/developer-portfolio/dream-bg.png');
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.bg-img-ex{
+    background-image: url('complete-web-development-bangla-resources/developer-portfolio/exp-bg.png');
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.ex-title{
+    margin-bottom: 60px;
+}
+.ex1{
+    color: orange;
+}
+.ex2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(29, 27, 27);
+}
+.shadow{
+    box-shadow: 13px 13px 24px -6px;
+    height: 350px;
+    border-radius: 5px;
+    width: 505px;
+}
+.b-l{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+
+}
+.b-2{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue,cyan);
+    border-image-slice: 1;
+
+}
+footer{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 12px;
+}
