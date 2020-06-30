@@ -12,7 +12,7 @@ section{
     margin-bottom: 50px;
 }
 .topBanner{
-    background-image: url('complete-web-development-bangla-resources/developer-portfolio/top-banner.png');
+    background-image: url('images/top-banner.png');
     background-repeat: no-repeat;
 }
 .leftArea{
@@ -69,12 +69,12 @@ button a{
     margin-bottom: 20px;
 }
 .bg-img{
-    background-image: url('complete-web-development-bangla-resources/developer-portfolio/dream-bg.png');
+    background-image: url('images/dream-bg.png');
     background-position: right;
     background-repeat: no-repeat;
 }
 .bg-img-ex{
-    background-image: url('complete-web-development-bangla-resources/developer-portfolio/exp-bg.png');
+    background-image: url('images/exp-bg.png');
     background-position: left;
     background-repeat: no-repeat;
 }
